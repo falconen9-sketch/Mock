@@ -1,0 +1,8 @@
+Entity Resolution Summary
+=========================
+Total dataset A records: 15000
+Total dataset B records: 15000
+Matched cross-dataset entities: 662
+Unmatched dataset A records: 14338
+Unmatched dataset B records: 14338
+Total master entities: 29338
